@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc4445cb-bd1e-4814-9991-a22f2d967a3e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://C:/env/go" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RMxaAexgG3NtN0lr8bsMpBzwyk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "configurable..is.expanded": "true",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "B:/GoProject/tour_of_go/bin",
+    "settings.editor.selected.configurable": "http.proxy"
+  }
+}]]></component>
+  <component name="RunManager" selected="Go Build.5_方法.go">
+    <configuration name="1_basic.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="tour_of_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="tour_of_go/src/cp1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/cp1/1_basic.go" />
+      <output_directory value="$PROJECT_DIR$/bin" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_指针、struct.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="tour_of_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="tour_of_go/src/cp1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/cp1/3_指针、struct.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4_映射.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="tour_of_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="tour_of_go/src/cp1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/cp1/4_映射.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5_方法.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="tour_of_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="tour_of_go/src/cp1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/cp1/5_方法.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build tour_of_go/src/cp1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="tour_of_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="tour_of_go/src/cp1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/cp1/3_指针、struct、slice.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.4_映射.go" />
+      <item itemvalue="Go Build.5_方法.go" />
+      <item itemvalue="Go Build.go build tour_of_go/src/cp1" />
+      <item itemvalue="Go Build.1_basic.go" />
+      <item itemvalue="Go Build.3_指针、struct.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.5_方法.go" />
+        <item itemvalue="Go Build.4_映射.go" />
+        <item itemvalue="Go Build.go build tour_of_go/src/cp1" />
+        <item itemvalue="Go Build.3_指针、struct.go" />
+        <item itemvalue="Go Build.1_basic.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
